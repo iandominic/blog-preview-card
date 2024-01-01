@@ -5,7 +5,7 @@ import logo from "../src/assets/image-avatar.webp";
 const App = () => {
   return (
     <div className="w-full h-screen bg-main flex justify-center items-center">
-      <div className="bg-white z-10 relative shad w-[320px] h-[490px] md:h-[530px] md:w-[360px] rounded-2xl flex flex-col  overflow-hidden p-[22px] border-black border-[1px]">
+      <div className="bg-white z-10 relative shad w-[320px] h-[490px] md:h-[520px] md:w-[380px] rounded-2xl flex flex-col  overflow-hidden p-[22px] border-black border-[1px]">
         <div className="w-full h-[195px] overflow-hidden rounded-xl ">
           <img alt="" className="w-full scale-[1.2] h-[193px]" src={article} />
         </div>
