@@ -23,7 +23,7 @@
     color:  hsl(47, 88%, 63%);
   }
   .shad {
-    filter: drop-shadow(8px 8px 0px #000000);
+    box-shadow: 8px 8px 0px #000000;
   }
 }
 
